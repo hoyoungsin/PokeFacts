@@ -19,3 +19,6 @@ The following planned features are:
 - Add a button to randomly generate without refreshing.
 - Add add a slider or options for more or less Pokemon in one page.
 - Update overall aesthetics.
+
+## Disclaimer
+*Pokémon and its respective characters are trademarks and copyrights of Nintendo, Game Freak, and The Pokémon Company. This project is not affiliated with, endorsed, sponsored, or specifically approved by Nintendo, Game Freak, or The Pokémon Company and is intended for personal and educational use only.
